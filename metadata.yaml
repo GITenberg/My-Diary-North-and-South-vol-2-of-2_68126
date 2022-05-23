@@ -1,0 +1,31 @@
+_repo: My-Diary-North-and-South-vol-2-of-2_68126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, William Howard, Sir
+    alias: Russell, W. H. (William Howard), Sir
+    birthdate: 1820
+    deathdate: 1907
+    gutenberg_agent_id: '25635'
+    url: http://www.gutenberg.org/2009/agents/25635
+    wikipedia: https://en.wikipedia.org/wiki/William_Howard_Russell
+description: ''
+gutenberg_issued: '2022-05-19'
+identifiers:
+  gutenberg: '68126'
+language: en
+pgterms:marc904: https://archive.org/details/mydiarynorthsoutv1russ https://archive.org/details/mydiarynorthsoutv2russ
+pgterms:marc905: 20190211222538russell
+pgterms:marc906: '1863'
+pgterms:marc907: GB
+production_note: MWS, John Campbell and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Bradbury and Evans,1863.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'My Diary: North and South (vol. 2 of 2)'
+url: http://www.gutenberg.org/ebooks/68126
